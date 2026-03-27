@@ -42,7 +42,7 @@ Commands:
     clashctl upgrade               升级内核
     clashctl tun                   Tun 模式
     clashctl mixin                 Mixin 配置
-Abbreviated:
+Abbreviation:
     clashon                        开启代理
     clashoff                       关闭代理
 
