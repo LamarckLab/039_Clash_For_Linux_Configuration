@@ -59,4 +59,11 @@ View Help Info:
 
 ---
 
+## ⚠️ 特别声明
+
+本项目仅用于技术学习与研究，主要涉及 Shell 编程及系统配置方法，不得用于任何违反法律法规的用途。使用者应自行确保其行为符合所在地区的相关规定，并自行承担由此产生的全部责任。项目维护者不对因使用或误用本项目所造成的任何后果承担责任。
+
+This project is intended for technical learning and research purposes only, focusing on Shell programming and system configuration. It must not be used for any activities that violate applicable laws or regulations. Users are responsible for ensuring compliance with local laws and assume all risks arising from its use. The maintainers shall not be held liable for any consequences resulting from the use or misuse of this project.
+
+---
 ##### [Clash For Linux官方文档](https://github.com/nelvko/clash-for-linux-install)
